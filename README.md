@@ -37,7 +37,7 @@ DB : AWS MySQL에 미리 크롤링한 카페 데이터(Cafes)와 새로 생기�
 별점순 혹은 가격순 선택 : 2번에서 정렬된 리스트에서 우선순위가 같은 카페들을 별점순(혹은 가격순)으로 정렬
 🛠 서비스 구조
 
-# cafemate
+# searchcafe
 
 > 사용자의 니즈에 맞는 카페 추천 웹사이트
 
@@ -80,7 +80,7 @@ DB : AWS MySQL에 미리 크롤링한 카페 데이터(Cafes)와 새로 생기�
 
 ---
 
-📢 [프로젝트 칸반보드](https://github.com/sungeun101/cafemate/projects/1)
+📢 [프로젝트 칸반보드]
 
 - FE
     - 조성은
