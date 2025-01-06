@@ -76,18 +76,5 @@ DB : AWS MySQL에 미리 크롤링한 카페 데이터(Cafes)와 새로 생기�
 
 [API 문서](https://www.notion.so/API-f730b73b41b249a8a394cbbc4dc18213)
 
-### 👩‍💻 FE & BE 역할 분담
 
----
-
-📢 [프로젝트 칸반보드]
-
-- FE
-    - 조성은
-    - 윤서윤
-
-- BE
-    - 조의형
-    Likes, Searching
-    - 황수영
-    Comments, Login, Cafedetail
+    
