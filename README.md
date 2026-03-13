@@ -62,18 +62,6 @@ DB : AWS MySQL에 미리 크롤링한 카페 데이터(Cafes)와 새로 생기�
 - Back
     - Java - version 11, SpringBoot, Spring Data JPA, Gradle, MySQL, AWS - EC2, RDS
 
-### 🚩 기획 & 설계
-
----
-
-[기능 명세서](https://www.notion.so/4241cfb8aab64592af099f34b2ccb938)
-
-⚡[페이지 기획서](https://whimsical.com/8-MbpuashuB5aRgSKR6jM14A)
-[DB 명세서](https://www.notion.so/DB-45d7f01cbc334d40968bd39d2dfe84ad)
-
-[API 명세서](https://www.notion.so/API-0b0cbd9ff7eb46d4b4b21446bf20233d)
-
-[API 문서](https://www.notion.so/API-f730b73b41b249a8a394cbbc4dc18213)
 
 
     
